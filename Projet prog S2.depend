@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1520436363 source:c:\users\asus\desktop\c\projet prog s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1520436363 source:c:\users\asus\desktop\c\projet prog s2\arene\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
