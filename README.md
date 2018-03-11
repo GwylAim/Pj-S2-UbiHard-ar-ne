@@ -9,7 +9,12 @@ Première partie : l'arène
 
 
 Equipe UbiHard
-
+Guilhem Fourcaud
+Victor Dalibot
+Raphaël Jiguet Jiglaire
+APPUDURAI Thanushan
+ZERBIB Corentin
+CREVEAU Arthur
 
 
 Bienvenu dans le Цолисёе !
